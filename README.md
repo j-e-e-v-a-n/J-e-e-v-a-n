@@ -1,21 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+# Hi there 👋, I'm Jeevan
 
-<p align="center">
-  <a href="https://www.instagram.com/spin._.ox/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</p>
+### Developer • Tech Enthusiast • Lifelong Learner
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-e-e-v-a-n&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="j-e-e-v-a-n's Stats"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20Profile&fontAlign=50&fontAlignY=40&color=gradient" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-e-e-v-a-n&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="j-e-e-v-a-n's Top Languages"/>
-</p>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about software development
+- 🌱 Always learning new technologies
+- 🔥 Interested in Web Development, APIs, and Automation
+- 🎯 Building projects and exploring new ideas
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/spin._.ox/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=j-e-e-v-a-n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-e-e-v-a-n&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=j-e-e-v-a-n&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,git,github,vscode,mongodb" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=j-e-e-v-a-n&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting ⭐
+
+<img src="https://komarev.com/ghpvc/?username=j-e-e-v-a-n&style=for-the-badge&color=blueviolet" />
+
+</div>
