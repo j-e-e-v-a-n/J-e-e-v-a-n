@@ -8,6 +8,7 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=j-e-e-v-a-n&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&cache_seconds=86400" />
+<br>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=j-e-e-v-a-n&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=94a3b8&text_color=cbd5e1&langs_count=8&cache_seconds=1800" height="165"/>
 
 </div>
