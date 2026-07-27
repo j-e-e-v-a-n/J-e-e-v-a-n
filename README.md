@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&text=Jeevan%20Joy&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Experimenting%20%7C%20Learning&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&text=HELLO&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Building%20•%20Experimenting%20•%20Learning&descAlignY=58&descSize=18" width="100%" />
 
-# Hello
-
-Building, experimenting, and learning.
 
 ## GitHub Statistics
 
