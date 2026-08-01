@@ -1,18 +1,18 @@
 <div align="center">
 
-# HELLO
-
-**Building • Experimenting • Learning**
-
-<!-- hero: monochrome ASCII portrait beside the 3D ASCII wordmark
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
      portrait: node scripts/ascii-portrait.js source-prepped.png
      wordmark: python scripts/make_wordmark_svg.py --mode rock
-     both panels land at the same height via width tuning -->
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+
+<h3><code>j-e-e-v-a-n@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./assets/jeevan-ascii.svg" width="370" height="500" alt="Jeevan — ASCII portrait" /></td>
-<td valign="top"><img src="./assets/wordmark-rock.svg" width="490" height="500" alt="J-E-E-V-A-N — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./assets/jeevan-ascii.svg" width="370" alt="Jeevan — ASCII portrait" /></td>
+<td valign="top"><img src="./assets/wordmark.svg" width="490" alt="J-E-E-V-A-N — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
@@ -20,7 +20,7 @@
 <br>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
-     regenerated daily via GitHub Actions workflow -->
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <h3><code>j-e-e-v-a-n@github ~ $ ./contributions.sh</code></h3>
 
