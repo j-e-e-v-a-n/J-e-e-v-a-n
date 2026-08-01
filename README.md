@@ -18,7 +18,7 @@
 <br>
 
 <!-- streak-start -->
-<img src="./assets/streak/j-e-e-v-a-n-streak.svg" width="860" alt="GitHub Streak" />
+![GitHub Streak](./assets/streak/j-e-e-v-a-n-streak.svg)
 <!-- streak-end -->
 
 </div>
