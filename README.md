@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./assets/jeevan-ascii.svg" width="370" alt="Jeevan — ASCII portrait" /></td>
-<td valign="center"><img src="./assets/wordmark.svg" width="490" alt="J-E-E-V-A-N — 3D ASCII wordmark" /></td>
+<td valign="center"><img src="./assets/wordmark-rock.svg" width="490" alt="J-E-E-V-A-N — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
