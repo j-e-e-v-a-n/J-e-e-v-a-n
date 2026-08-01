@@ -24,7 +24,9 @@
 
 
 
-<img src="./assets/streak/j-e-e-v-a-n-streak.svg" width="860" alt="Jeevan's GitHub contribution graph — auto-refreshed daily" />
+<!-- streak-start -->
+![GitHub Streak](./assets/streak/j-e-e-v-a-n-streak.svg)
+<!-- streak-end -->
 
 <br>
 <br>
@@ -35,6 +37,3 @@
 
 </div>
 
-<!-- streak-start -->
-![GitHub Streak](./assets/streak/j-e-e-v-a-n-streak.svg)
-<!-- streak-end -->
