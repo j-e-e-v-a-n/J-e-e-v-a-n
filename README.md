@@ -7,10 +7,10 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./jeevan-ascii.svg" width="370" alt="ASCII Portrait" />
+<img src="./assets/jeevan-ascii.svg" width="370" alt="ASCII Portrait" />
 </td>
 <td valign="top">
-<img src="./wordmark-rock.svg.svg" width="490" alt="3D ASCII Wordmark" />
+<img src="./assets/wordmark-rock.svg.svg" width="490" alt="3D ASCII Wordmark" />
 </td>
 </tr>
 </table>
