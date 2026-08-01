@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./assets/jeevan-ascii.svg" width="370" alt="Jeevan — ASCII portrait" /></td>
-<td valign="top"><img src="./assets/wordmark-rock.svg" width="490" alt="J-E-E-V-A-N — 3D ASCII wordmark" /></td>
+<img src="./assets/jeevan-ascii.svg" width="370" height="525" />
+<img src="./assets/wordmark-rock.svg" width="490" height="525" />
 </tr>
 </table>
 
