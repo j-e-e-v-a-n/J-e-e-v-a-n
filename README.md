@@ -1,14 +1,21 @@
 <div align="center">
 
-<h3><code>j-e-e-v-a-n@github ~ $ whoami</code></h3>
-
 # HELLO
 
 **Building • Experimenting • Learning**
 
-<br><br>
+<table>
+<tr>
+<td valign="top">
+<img src="./jeevan-ascii.svg" width="370" alt="ASCII Portrait" />
+</td>
+<td valign="top">
+<img src="./wordmark-rock.svg.svg" width="490" alt="3D ASCII Wordmark" />
+</td>
+</tr>
+</table>
 
-<h3><code>j-e-e-v-a-n@github ~ $ ./streak.sh</code></h3>
+<br>
 
 <!-- streak-start -->
 <img src="./assets/streak/j-e-e-v-a-n-streak.svg" width="860" alt="GitHub Streak" />
